@@ -1,0 +1,8 @@
+.emp-table__icon {
+    cursor: pointer;
+  }
+  
+.emp-table__icon > svg {
+    width: 1em;
+    margin-right: 0.5em;
+}

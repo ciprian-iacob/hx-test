@@ -1,0 +1,28 @@
+.emp-btn {
+    height: 44px;
+    border: none;
+    border-radius: 3px;
+    padding: 1em;
+    color: white;
+    font-weight: bold;
+}
+
+.emp-btn--primary {
+    background-color: #0A65FF;
+}
+
+.emp-btn--danger {
+    background-color: #E01A1A;
+}
+
+.emp-btn--success {
+    background-color: #008400;
+}
+
+.emp-btn--info {
+    background-color: #0276BA;
+}
+
+.emp-btn--warning {
+    background-color: #BA5300;
+}

@@ -1,0 +1,17 @@
+.emp-form__input {
+    margin-bottom: 1em;
+}
+
+.emp-form__input input,
+.emp-form__input select {
+    min-height: 44px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    padding-left: 1em;
+    min-width: 250px;
+    margin-top: 0.5em;
+}
+
+.emp-form__input label {
+    display: block;
+}

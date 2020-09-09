@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Tesla"
+    },
+    {
+        "id": 2,
+        "name": "SpaceX"
+    },
+    {
+        "id": 3,
+        "name": "NASA"
+    },
+    {
+        "id": 4,
+        "name": "Google"
+    },
+    {
+        "id": 5,
+        "name": "UiPath"
+    }
+]
